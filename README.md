@@ -4,9 +4,12 @@ This project focuses on developing models to analyze and predict the factors tha
 
 Dataset retrieved from https://archive.ics.uci.edu/dataset/332/online+news+popularity
 
-![image](https://github.com/user-attachments/assets/48c6fcf3-6627-4bef-971d-1533481521d5)
-
-![image](https://github.com/user-attachments/assets/60f98cfc-be16-4973-9c0e-ab85f120e859)
+![image](https://github.com/user-attachments/assets/d9f5b234-8f27-483d-bca3-2b756a96bcd8)
 
 
-Further details are provided in the project report.
+![image](https://github.com/user-attachments/assets/773eb6eb-00b7-4e0e-9c22-55f24e71365a)
+
+Architecture of the Neural Network Model
+
+
+Complete details are in the report.
