@@ -7,9 +7,8 @@ Dataset retrieved from https://archive.ics.uci.edu/dataset/332/online+news+popul
 ![image](https://github.com/user-attachments/assets/d9f5b234-8f27-483d-bca3-2b756a96bcd8)
 
 
-![image](https://github.com/user-attachments/assets/773eb6eb-00b7-4e0e-9c22-55f24e71365a)
+![image](https://github.com/user-attachments/assets/49da128c-643f-40a8-882a-1ac250ff61cc)
 
-Architecture of the Neural Network Model
 
 
 Complete details are in the report.
